@@ -15,7 +15,8 @@ newspaper front page. An entry in make.fun's `news-image-20261124` competition.
 - **Eight more numbered stories** as illustrated cards: Putin's refinery retaliation vow,
   the Zaporizhzhia strike, Bougainville's independence vote, South Korea's 3-minute
   air-raid alert, Sanofi's $41bn Insmed deal, the Cikande factory-fire toll of 26,
-  Senegal reinstated as AFCON champions, and Trump's prepared tariffs.
+  Trump's prepared tariffs alongside the EU's 350,000-a-year cap on Chinese hybrids,
+  and the Solomon Islands ending its China security pact for an Australia treaty.
 - **A dotted world map** whose numbered pins match the story cards, and an also-list of
   24 further dated briefs, each with its outlet.
 - **A DATE CHECK box** naming the big circulating stories that belong to other days
