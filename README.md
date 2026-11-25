@@ -23,7 +23,7 @@ newspaper front page. An entry in [make.fun](https://make.fun/bounty/news-image-
   Trump's prepared tariffs alongside the EU's 350,000-a-year cap on Chinese hybrids,
   and the Solomon Islands ending its China security pact for an Australia treaty.
 - **A dotted world map** whose numbered pins match the story cards, and an also-list of
-  24 further dated briefs, each with its outlet.
+  25 further dated briefs, each with its outlet — every brief numbered in sequence.
 - **A DATE CHECK box** naming the big circulating stories that belong to other days
   (Nvidia's Monday announcement, the Merkury corvette, COP31, the ATP Finals) and a
   certainty legend — CONFIRMED / OFFICIAL / REPORTED / CLAIM / ONGOING.
