@@ -11,22 +11,26 @@ newspaper front page. An entry in [make.fun](https://make.fun/bounty/news-image-
 ## The page
 
 - **Masthead** with the date it sums up, an italic ticker of the three biggest lines,
-  a stat strip of the day's numbers, region-count chips and a UTC timeline of the day.
+  a stat strip of the day's numbers, region-count chips summing to 40, and a UTC
+  timeline of the day.
 - **Three illustrated leads**, each with its own vector scene, body text, a certainty
   badge and its outlets:
-  1. A Houthi drone hits Riyadh's PIF Tower for the second time in five days, 11 hurt.
-  2. Iran says oil tankers hit mines in the Strait of Hormuz; Brent jumps to $91.40.
-  3. The Dow Jones closes above 50,000 for the first time, on the day the AI trade sinks.
-- **Eight more numbered stories** as illustrated cards: Putin's refinery retaliation vow,
-  the Zaporizhzhia strike, Bougainville's independence vote, South Korea's 3-minute
-  air-raid alert, Sanofi's $41bn Insmed deal, the Cikande factory-fire toll of 26,
-  Trump's prepared tariffs alongside the EU's 350,000-a-year cap on Chinese hybrids,
-  and the Solomon Islands ending its China security pact for an Australia treaty.
+  1. China investigates Politburo member and Shanghai party chief Chen Jining.
+  2. A US jury finds Huawei guilty on 10 of 12 counts in the trade-secrets case.
+  3. A Russian strike hits Zaporizhzhia apartments; Ukraine downs 73 of 96 drones.
+- **Fourteen more numbered illustrated cards**: the Houthi hit on Riyadh's PIF tower,
+  the UKMTO report of three ships struck in Hormuz, Senegal's restored AFCON title,
+  the Kospi's record surge back over 5,000, Sanofi's $41bn Insmed deal, the Russian-jet
+  air-raid alert off Korea, England's deadliest heat summer, the Gaza strike that killed
+  Hamas's security chief, the UAE bus crash, Hanoi's rising gas-blast toll, Ariane 6's
+  36-satellite launch, Hungary's new PM Magyar meeting Zelenskyy, Baghdad's Kurdish-oil
+  takeover order, and the Solomons scrapping their China security pact.
 - **A dotted world map** whose numbered pins match the story cards, and an also-list of
-  25 further dated briefs, each with its outlet — every brief numbered in sequence.
-- **A DATE CHECK box** naming the big circulating stories that belong to other days
-  (Nvidia's Monday announcement, the Merkury corvette, COP31, the ATP Finals) and a
-  certainty legend — CONFIRMED / OFFICIAL / REPORTED / CLAIM / ONGOING.
+  23 further dated briefs, each with its outlet — every brief numbered in sequence,
+  40 stories in all.
+- **A DATE CHECK box** naming the big circulating stories that belong to other days and
+  flagging that the Hormuz ship strikes themselves happened Monday evening and were first
+  reported on the 24th — plus a certainty legend.
 
 Every story happened, or was first reported, on Tuesday 24 November 2026, as the named
 outlets reported it. All maps and drawings are original vector work.
