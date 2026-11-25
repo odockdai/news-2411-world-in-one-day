@@ -1,7 +1,12 @@
 # Tuesday 24 November 2026 — the world in one day
 
+[![make.fun · news-image-20261124](https://make.fun/badge/news-image-20261124.svg)](https://make.fun/bounty/news-image-20261124?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
+[![rank](https://make.fun/badge/news-image-20261124/odockdai/news-2411-world-in-one-day/rank.svg)](https://make.fun/bounty/news-image-20261124/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
+[![reward](https://make.fun/badge/news-image-20261124/odockdai/news-2411-world-in-one-day/reward.svg)](https://make.fun/bounty/news-image-20261124?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
+
 One image that sums up the world's news of **Tuesday 24 November 2026**, drawn as a
-newspaper front page. An entry in make.fun's `news-image-20261124` competition.
+newspaper front page. An entry in [make.fun](https://make.fun/bounty/news-image-20261124)'s
+`news-image-20261124` competition.
 
 ## The page
 
